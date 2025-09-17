@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6485f2562aa767a4290c8c3b6ecac8bd, type: 3}
+  m_Name: 16 Riolu
+  m_EditorClassIdentifier: 
+  Name: Riolu
+  ID: 16
+  Prefab1Estrella: {fileID: 8127390206939881301, guid: a0c57835ceeb1de43ab0cb6ad17e0e39,
+    type: 3}
+  Prefab2Estrellas: {fileID: 4507422919130842447, guid: 8406b0cc827fc424f8aa0075763e61f6,
+    type: 3}
+  Prefab3Estrellas: {fileID: 7164975576968971591, guid: 6acf38440091e5444a3a074316417f20,
+    type: 3}
+  spriteTienda: {fileID: 21300000, guid: 314c86db34dcbb5479124beba58c0bac, type: 3}
+  Coste: 3
+  HP: 800
+  Ataque: 100
+  Defensa: 50
+  AtaqueEspecial: 100
+  DefensaEspecial: 30
+  VelocidadAtq: 0.9
+  isRanged: 1
+  Rango: 3
+  ManaMax: 70
+  startingMana: 0
+  usaMana: 1
+  Tipo: 0
+  Rol: 2
+  icono1estrella: {fileID: 21300000, guid: 970ed4083eae8c346a96edbff16010a1, type: 3}
+  icono2estrellas: {fileID: 21300000, guid: fd16ddce806a6184ebb177719f5fdd88, type: 3}
+  icono3estrellas: {fileID: 21300000, guid: 2194a367151c40d44811cafb315ced12, type: 3}
+  Name2Estrellas: Lucario
+  Name3Estrellas: Mega Lucario
+  iconoTipo: {fileID: 21300000, guid: 24cfcca384a0e684796c14b483d33a8b, type: 3}
+  iconoRol: {fileID: 21300000, guid: 4eafca0d23841d349bf7309d354cfe29, type: 3}
+  descripcionHabilidad: "Lanza una esfera al oponente m\xE1s lejando y haciendo el
+    %50 de da\xF1o a los enemigos que atraviese"
+  numerosHab1Estrella: 500
+  numerosHab2Estrella: 650
+  numerosHab3Estrella: 800

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6485f2562aa767a4290c8c3b6ecac8bd, type: 3}
+  m_Name: 21 Deino
+  m_EditorClassIdentifier: 
+  Name: Deino
+  ID: 21
+  Prefab1Estrella: {fileID: 6653973413804882024, guid: d37a0dd4dce14f54eb32d766621a3c2c,
+    type: 3}
+  Prefab2Estrellas: {fileID: 8539397000216132251, guid: 141bb1d09a9c19648ba9f18e435e7900,
+    type: 3}
+  Prefab3Estrellas: {fileID: 9048174685193388420, guid: 7fa9b030967da774c99c3b75d7f4dd64,
+    type: 3}
+  spriteTienda: {fileID: 21300000, guid: 9dd81b7e6dd1cae44a3e86deb5900d11, type: 3}
+  Coste: 4
+  HP: 1000
+  Ataque: 80
+  Defensa: 50
+  AtaqueEspecial: 100
+  DefensaEspecial: 50
+  VelocidadAtq: 0.8
+  isRanged: 1
+  Rango: 3
+  ManaMax: 80
+  startingMana: 40
+  usaMana: 1
+  Tipo: 6
+  Rol: 3
+  icono1estrella: {fileID: 21300000, guid: 024c48923b310f9499cbf23d4c204a29, type: 3}
+  icono2estrellas: {fileID: 21300000, guid: 0ca9d5e721796ed4c989fd8f54ba395c, type: 3}
+  icono3estrellas: {fileID: 21300000, guid: 171eaf42b70ebda4a98a052b7eb5f9da, type: 3}
+  Name2Estrellas: Zweillous
+  Name3Estrellas: Hydreigon
+  iconoTipo: {fileID: 21300000, guid: f8581b3fc6dbf9d468208312a934e218, type: 3}
+  iconoRol: {fileID: 21300000, guid: 416a350cefcecd940b8029f8553b683d, type: 3}
+  descripcionHabilidad: "Lanza un Pulso Umbr\xEDo en todas las direcciones da\xF1ando
+    y bajando la defensa especial a lo enemigos que alcanza durante 4s."
+  numerosHab1Estrella: 500
+  numerosHab2Estrella: 700
+  numerosHab3Estrella: 1000

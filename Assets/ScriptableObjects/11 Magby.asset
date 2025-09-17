@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6485f2562aa767a4290c8c3b6ecac8bd, type: 3}
+  m_Name: 11 Magby
+  m_EditorClassIdentifier: 
+  Name: Magby
+  ID: 11
+  Prefab1Estrella: {fileID: 2319044080530459724, guid: f48bccb51e2cb2e4088f76782a6bb3e8,
+    type: 3}
+  Prefab2Estrellas: {fileID: 6515027903961655069, guid: 6725e36767f23f2408911c588788dc84,
+    type: 3}
+  Prefab3Estrellas: {fileID: 8457223643707663681, guid: 33eef9cdf18a133428424b93a69d9adb,
+    type: 3}
+  spriteTienda: {fileID: 21300000, guid: 2766978e1b1d173469084111d1e392eb, type: 3}
+  Coste: 2
+  HP: 750
+  Ataque: 80
+  Defensa: 25
+  AtaqueEspecial: 100
+  DefensaEspecial: 25
+  VelocidadAtq: 0.7
+  isRanged: 1
+  Rango: 4
+  ManaMax: 0
+  startingMana: 0
+  usaMana: 0
+  Tipo: 5
+  Rol: 2
+  icono1estrella: {fileID: 21300000, guid: eb20df88b037f244db6374a816491aab, type: 3}
+  icono2estrellas: {fileID: 21300000, guid: 99d26bca3a9e6414c940ca7ebb309c66, type: 3}
+  icono3estrellas: {fileID: 21300000, guid: c3e8f78566c4ea8438988c8c5011d973, type: 3}
+  Name2Estrellas: Magmar
+  Name3Estrellas: Magmortar
+  iconoTipo: {fileID: 21300000, guid: ed072639933902349b57d4bc05b04167, type: 3}
+  iconoRol: {fileID: 21300000, guid: 4eafca0d23841d349bf7309d354cfe29, type: 3}
+  descripcionHabilidad: 'Pasiva: Sus ataques revotan en los oponentes cercanos varias
+    veces.'
+  numerosHab1Estrella: 3
+  numerosHab2Estrella: 4
+  numerosHab3Estrella: 5

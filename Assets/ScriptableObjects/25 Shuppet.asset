@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6485f2562aa767a4290c8c3b6ecac8bd, type: 3}
+  m_Name: 25 Shuppet
+  m_EditorClassIdentifier: 
+  Name: Shuppet
+  ID: 25
+  Prefab1Estrella: {fileID: 2569098086397030356, guid: 618721d8f385fd74c9c98cc0c71284e9,
+    type: 3}
+  Prefab2Estrellas: {fileID: 3899102121478678083, guid: 588153d65ba3a02428284b8e61c3b1b6,
+    type: 3}
+  Prefab3Estrellas: {fileID: 1822561836363912205, guid: 9202a7bab2f4fb9409ed66ea434a9e32,
+    type: 3}
+  spriteTienda: {fileID: 21300000, guid: b76f519735e5d6347a8c2264adf59457, type: 3}
+  Coste: 4
+  HP: 800
+  Ataque: 100
+  Defensa: 40
+  AtaqueEspecial: 100
+  DefensaEspecial: 35
+  VelocidadAtq: 1
+  isRanged: 1
+  Rango: 4
+  ManaMax: 60
+  startingMana: 0
+  usaMana: 1
+  Tipo: 2
+  Rol: 2
+  icono1estrella: {fileID: 21300000, guid: cc6f4439bf9abf44c893a667b05acf69, type: 3}
+  icono2estrellas: {fileID: 21300000, guid: 69d26a38a45fe4840be910003314ec6f, type: 3}
+  icono3estrellas: {fileID: 21300000, guid: 639ea30bf37471d499e040222d78a0df, type: 3}
+  Name2Estrellas: Banette
+  Name3Estrellas: Mega Banette
+  iconoTipo: {fileID: 21300000, guid: 9cdebc51d6ec94c4cb9b53515b135318, type: 3}
+  iconoRol: {fileID: 21300000, guid: 4eafca0d23841d349bf7309d354cfe29, type: 3}
+  descripcionHabilidad: "Busca al enemigo con menos % de vida y le inflige da\xF1o
+    masivo."
+  numerosHab1Estrella: 800
+  numerosHab2Estrella: 1000
+  numerosHab3Estrella: 1200

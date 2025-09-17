@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6485f2562aa767a4290c8c3b6ecac8bd, type: 3}
+  m_Name: 04 Hoppip
+  m_EditorClassIdentifier: 
+  Name: Hoppip
+  ID: 4
+  Prefab1Estrella: {fileID: 3103359152631104289, guid: 34ad6c6bea26fe44c82ace104a41d7d6,
+    type: 3}
+  Prefab2Estrellas: {fileID: 4466567482964094619, guid: 01cbd6ee9466e324b85c839494129ea8,
+    type: 3}
+  Prefab3Estrellas: {fileID: 7184015367229708645, guid: 0150899009f7d5d448e76b977f5b9263,
+    type: 3}
+  spriteTienda: {fileID: 21300000, guid: 64c63cd84209cc34dbbece8089e1b2cf, type: 3}
+  Coste: 1
+  HP: 700
+  Ataque: 55
+  Defensa: 30
+  AtaqueEspecial: 100
+  DefensaEspecial: 30
+  VelocidadAtq: 0.65
+  isRanged: 1
+  Rango: 1
+  ManaMax: 50
+  startingMana: 0
+  usaMana: 1
+  Tipo: 4
+  Rol: 4
+  icono1estrella: {fileID: 21300000, guid: 45c65ff3544532540ab4bfc7f1a0ad71, type: 3}
+  icono2estrellas: {fileID: 21300000, guid: 179f1636afcca9d4d8751fabc08cdaba, type: 3}
+  icono3estrellas: {fileID: 21300000, guid: 748235f5c81fd8044b96f75243953f70, type: 3}
+  Name2Estrellas: Skiploom
+  Name3Estrellas: Jumpluff
+  iconoTipo: {fileID: 21300000, guid: da4ef02692617d147bf1abaca642555d, type: 3}
+  iconoRol: {fileID: 21300000, guid: 60c86f0dd1e590a458115cece32196f8, type: 3}
+  descripcionHabilidad: "Usa GigaDrenado da\xF1ando al enemigo y cur\xE1ndo el %50
+    del da\xF1o hecho."
+  numerosHab1Estrella: 300
+  numerosHab2Estrella: 400
+  numerosHab3Estrella: 550

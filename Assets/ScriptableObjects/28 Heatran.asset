@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6485f2562aa767a4290c8c3b6ecac8bd, type: 3}
+  m_Name: 28 Heatran
+  m_EditorClassIdentifier: 
+  Name: Heatran
+  ID: 28
+  Prefab1Estrella: {fileID: 2792990073658681110, guid: a271ea556f517d84f9e83dd11a4bd007,
+    type: 3}
+  Prefab2Estrellas: {fileID: 2792990073658681110, guid: a271ea556f517d84f9e83dd11a4bd007,
+    type: 3}
+  Prefab3Estrellas: {fileID: 2792990073658681110, guid: a271ea556f517d84f9e83dd11a4bd007,
+    type: 3}
+  spriteTienda: {fileID: 21300000, guid: 7d3b683ded23da14e953ef1d31b85729, type: 3}
+  Coste: 5
+  HP: 1500
+  Ataque: 90
+  Defensa: 60
+  AtaqueEspecial: 100
+  DefensaEspecial: 60
+  VelocidadAtq: 0.9
+  isRanged: 0
+  Rango: 1
+  ManaMax: 80
+  startingMana: 0
+  usaMana: 1
+  Tipo: 5
+  Rol: 1
+  icono1estrella: {fileID: 21300000, guid: 355ed99fae039a84ead35ecf7adb73b5, type: 3}
+  icono2estrellas: {fileID: 21300000, guid: 355ed99fae039a84ead35ecf7adb73b5, type: 3}
+  icono3estrellas: {fileID: 21300000, guid: 355ed99fae039a84ead35ecf7adb73b5, type: 3}
+  Name2Estrellas: Heatran
+  Name3Estrellas: Heatran
+  iconoTipo: {fileID: 21300000, guid: ed072639933902349b57d4bc05b04167, type: 3}
+  iconoRol: {fileID: 21300000, guid: 93ae0b9479352b14d9119324dbeaad7e, type: 3}
+  descripcionHabilidad: "Crea una enorme Lluvia \xCDgnea da\xF1ando a todos los enemigos
+    en el interior por un % de su vida m\xE1xima durante 5s cada 0.5s."
+  numerosHab1Estrella: 6
+  numerosHab2Estrella: 8
+  numerosHab3Estrella: 10

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6485f2562aa767a4290c8c3b6ecac8bd, type: 3}
+  m_Name: 22 Pikipek
+  m_EditorClassIdentifier: 
+  Name: Pikipek
+  ID: 22
+  Prefab1Estrella: {fileID: 5289592482936407991, guid: ca314a82fa6324b419449911b3b5e569,
+    type: 3}
+  Prefab2Estrellas: {fileID: 8549095176495456864, guid: 94fb95515227bf2409a20aaeb6ba6b34,
+    type: 3}
+  Prefab3Estrellas: {fileID: 4102850585675795954, guid: 4e111c028212ce94c9bc881bad38e459,
+    type: 3}
+  spriteTienda: {fileID: 21300000, guid: 0ec79824301364949bcddf3c6c225491, type: 3}
+  Coste: 4
+  HP: 1300
+  Ataque: 90
+  Defensa: 50
+  AtaqueEspecial: 100
+  DefensaEspecial: 40
+  VelocidadAtq: 0.7
+  isRanged: 0
+  Rango: 1
+  ManaMax: 90
+  startingMana: 0
+  usaMana: 1
+  Tipo: 4
+  Rol: 1
+  icono1estrella: {fileID: 21300000, guid: d6c9f41656aa8054db9e11b2c0e0fc37, type: 3}
+  icono2estrellas: {fileID: 21300000, guid: 2a983f5f62b3da54cbb1adac3489e57e, type: 3}
+  icono3estrellas: {fileID: 21300000, guid: aee4d859d6542544bae05ec627538874, type: 3}
+  Name2Estrellas: Trumbeak
+  Name3Estrellas: Toucannon
+  iconoTipo: {fileID: 21300000, guid: da4ef02692617d147bf1abaca642555d, type: 3}
+  iconoRol: {fileID: 21300000, guid: 93ae0b9479352b14d9119324dbeaad7e, type: 3}
+  descripcionHabilidad: "Almacena el da\xF1o recibido durante 4s y devuelve un %
+    del recibido."
+  numerosHab1Estrella: 30
+  numerosHab2Estrella: 45
+  numerosHab3Estrella: 70

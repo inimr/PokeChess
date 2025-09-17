@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6485f2562aa767a4290c8c3b6ecac8bd, type: 3}
+  m_Name: 30 Palkia
+  m_EditorClassIdentifier: 
+  Name: Palkia
+  ID: 30
+  Prefab1Estrella: {fileID: 8309915885779380652, guid: ca3d3f01a7134854e9117b5fd2c3888a,
+    type: 3}
+  Prefab2Estrellas: {fileID: 8309915885779380652, guid: ca3d3f01a7134854e9117b5fd2c3888a,
+    type: 3}
+  Prefab3Estrellas: {fileID: 8309915885779380652, guid: ca3d3f01a7134854e9117b5fd2c3888a,
+    type: 3}
+  spriteTienda: {fileID: 21300000, guid: 554dfb2730b113b4b92cf5dfd102c69f, type: 3}
+  Coste: 5
+  HP: 1350
+  Ataque: 120
+  Defensa: 70
+  AtaqueEspecial: 100
+  DefensaEspecial: 50
+  VelocidadAtq: 1.1
+  isRanged: 0
+  Rango: 1
+  ManaMax: 0
+  startingMana: 0
+  usaMana: 0
+  Tipo: 6
+  Rol: 2
+  icono1estrella: {fileID: 21300000, guid: 19e5aec38516af2409fb17aecc0316b8, type: 3}
+  icono2estrellas: {fileID: 21300000, guid: 19e5aec38516af2409fb17aecc0316b8, type: 3}
+  icono3estrellas: {fileID: 21300000, guid: 19e5aec38516af2409fb17aecc0316b8, type: 3}
+  Name2Estrellas: Palkia
+  Name3Estrellas: Palkia
+  iconoTipo: {fileID: 21300000, guid: f8581b3fc6dbf9d468208312a934e218, type: 3}
+  iconoRol: {fileID: 21300000, guid: 4eafca0d23841d349bf7309d354cfe29, type: 3}
+  descripcionHabilidad: "Pasiva: Puede haber m\xE1s de un drag\xF3n en el tablero.
+    Sus ataques b\xE1sicos pegan en area con da\xF1o adicional"
+  numerosHab1Estrella: 80
+  numerosHab2Estrella: 120
+  numerosHab3Estrella: 300

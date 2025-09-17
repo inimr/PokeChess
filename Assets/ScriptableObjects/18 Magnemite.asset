@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6485f2562aa767a4290c8c3b6ecac8bd, type: 3}
+  m_Name: 18 Magnemite
+  m_EditorClassIdentifier: 
+  Name: Magnemite
+  ID: 18
+  Prefab1Estrella: {fileID: 2651331638065926431, guid: 78dbdaaa762148c4aa889c0ef3e98391,
+    type: 3}
+  Prefab2Estrellas: {fileID: 4863254713820428932, guid: 14c4b997bfbeeb4488b401f87a8d2e9a,
+    type: 3}
+  Prefab3Estrellas: {fileID: 2686460221677849752, guid: b0a3756f36cd54e46bc659299f38e471,
+    type: 3}
+  spriteTienda: {fileID: 21300000, guid: b02bf51a62cba274cb10a618c4e732b6, type: 3}
+  Coste: 3
+  HP: 780
+  Ataque: 60
+  Defensa: 40
+  AtaqueEspecial: 100
+  DefensaEspecial: 40
+  VelocidadAtq: 0.73
+  isRanged: 1
+  Rango: 4
+  ManaMax: 80
+  startingMana: 20
+  usaMana: 1
+  Tipo: 3
+  Rol: 3
+  icono1estrella: {fileID: 21300000, guid: 7be10fe6d0bc9544e9b3d55a8dd7d95f, type: 3}
+  icono2estrellas: {fileID: 21300000, guid: 00adb13439094d846bd1d37099c27b1d, type: 3}
+  icono3estrellas: {fileID: 21300000, guid: 3df9911882ed8754da21c3453bd49f50, type: 3}
+  Name2Estrellas: Magneton
+  Name3Estrellas: Magnezone
+  iconoTipo: {fileID: 21300000, guid: ee14166ab1d4b044c87ee8078c7cffca, type: 3}
+  iconoRol: {fileID: 21300000, guid: 416a350cefcecd940b8029f8553b683d, type: 3}
+  descripcionHabilidad: "Lanza un electroca\xF1\xF3n al enemigo con menor % de vida,
+    da\xF1\xE1ndolo y aturdiendolo 1s."
+  numerosHab1Estrella: 600
+  numerosHab2Estrella: 700
+  numerosHab3Estrella: 800

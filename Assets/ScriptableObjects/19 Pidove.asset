@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6485f2562aa767a4290c8c3b6ecac8bd, type: 3}
+  m_Name: 19 Pidove
+  m_EditorClassIdentifier: 
+  Name: Pidove
+  ID: 19
+  Prefab1Estrella: {fileID: 900998248493972679, guid: 30dcd2faeffdb8743ae6886650d03d70,
+    type: 3}
+  Prefab2Estrellas: {fileID: 7858929418612393658, guid: c60071446e4120d408f2faabc7438342,
+    type: 3}
+  Prefab3Estrellas: {fileID: 3387630541823954793, guid: beb088c8d0fad5648841aac858612456,
+    type: 3}
+  spriteTienda: {fileID: 21300000, guid: 50d6ff916a51116468bc4c20e5ec5821, type: 3}
+  Coste: 3
+  HP: 1050
+  Ataque: 75
+  Defensa: 40
+  AtaqueEspecial: 100
+  DefensaEspecial: 40
+  VelocidadAtq: 0.77
+  isRanged: 1
+  Rango: 2
+  ManaMax: 100
+  startingMana: 0
+  usaMana: 1
+  Tipo: 4
+  Rol: 4
+  icono1estrella: {fileID: 21300000, guid: c83f1738f5ce13f45a486df27106e9ea, type: 3}
+  icono2estrellas: {fileID: 21300000, guid: 5a4a08f596d0e7841bcaf9d8506c4e2a, type: 3}
+  icono3estrellas: {fileID: 21300000, guid: d1f2848d31e802e4ca8cacbb4f889d82, type: 3}
+  Name2Estrellas: Tranquill
+  Name3Estrellas: Unfezant
+  iconoTipo: {fileID: 21300000, guid: da4ef02692617d147bf1abaca642555d, type: 3}
+  iconoRol: {fileID: 21300000, guid: 60c86f0dd1e590a458115cece32196f8, type: 3}
+  descripcionHabilidad: "Usa Danza Plumas da\xF1ando y bajando la velocidad de ataque
+    durante 3s."
+  numerosHab1Estrella: 300
+  numerosHab2Estrella: 400
+  numerosHab3Estrella: 550

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6485f2562aa767a4290c8c3b6ecac8bd, type: 3}
+  m_Name: 07 Charmander
+  m_EditorClassIdentifier: 
+  Name: Charmander
+  ID: 7
+  Prefab1Estrella: {fileID: 7098971365906426919, guid: 94d9f2fb63c1d5346b83a1648591b492,
+    type: 3}
+  Prefab2Estrellas: {fileID: 9171945950492449420, guid: 972b21382be1cb44a95762218953939e,
+    type: 3}
+  Prefab3Estrellas: {fileID: 3002876654948471768, guid: 1e735e4b4b11d0843973dfd444fa580a,
+    type: 3}
+  spriteTienda: {fileID: 21300000, guid: 2568c551f06979444a73bae94fd3534b, type: 3}
+  Coste: 2
+  HP: 720
+  Ataque: 60
+  Defensa: 30
+  AtaqueEspecial: 100
+  DefensaEspecial: 30
+  VelocidadAtq: 0.7
+  isRanged: 1
+  Rango: 2
+  ManaMax: 50
+  startingMana: 0
+  usaMana: 1
+  Tipo: 5
+  Rol: 3
+  icono1estrella: {fileID: 21300000, guid: c01677fbd75428c488e3539ffd4326ca, type: 3}
+  icono2estrellas: {fileID: 21300000, guid: 9347d66c0c6882d4a9ccc94f771d036c, type: 3}
+  icono3estrellas: {fileID: 21300000, guid: 3f556a93157801448871df206be96637, type: 3}
+  Name2Estrellas: Charmeleon
+  Name3Estrellas: Charizard
+  iconoTipo: {fileID: 21300000, guid: ed072639933902349b57d4bc05b04167, type: 3}
+  iconoRol: {fileID: 21300000, guid: 416a350cefcecd940b8029f8553b683d, type: 3}
+  descripcionHabilidad: Lanza una bola de fuego hacia el objetivo,que vuelve a su
+    origen, pudiendo golpear dos veces.
+  numerosHab1Estrella: 200
+  numerosHab2Estrella: 300
+  numerosHab3Estrella: 400

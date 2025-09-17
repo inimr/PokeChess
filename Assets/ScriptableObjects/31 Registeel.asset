@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6485f2562aa767a4290c8c3b6ecac8bd, type: 3}
+  m_Name: 31 Registeel
+  m_EditorClassIdentifier: 
+  Name: Registeel
+  ID: 31
+  Prefab1Estrella: {fileID: 4522767071160925259, guid: f819cec14b16454459f8835037e797bf,
+    type: 3}
+  Prefab2Estrellas: {fileID: 4522767071160925259, guid: f819cec14b16454459f8835037e797bf,
+    type: 3}
+  Prefab3Estrellas: {fileID: 4522767071160925259, guid: f819cec14b16454459f8835037e797bf,
+    type: 3}
+  spriteTienda: {fileID: 21300000, guid: 2ba5e7bdb1666d143b04b5c684af868e, type: 3}
+  Coste: 5
+  HP: 1500
+  Ataque: 90
+  Defensa: 120
+  AtaqueEspecial: 100
+  DefensaEspecial: 60
+  VelocidadAtq: 0.6
+  isRanged: 0
+  Rango: 1
+  ManaMax: 100
+  startingMana: 0
+  usaMana: 1
+  Tipo: 0
+  Rol: 0
+  icono1estrella: {fileID: 21300000, guid: 69168ea6ac62f304986bc0562b556f61, type: 3}
+  icono2estrellas: {fileID: 21300000, guid: 69168ea6ac62f304986bc0562b556f61, type: 3}
+  icono3estrellas: {fileID: 21300000, guid: 69168ea6ac62f304986bc0562b556f61, type: 3}
+  Name2Estrellas: Registeel
+  Name3Estrellas: Registeel
+  iconoTipo: {fileID: 21300000, guid: 24cfcca384a0e684796c14b483d33a8b, type: 3}
+  iconoRol: {fileID: 21300000, guid: 50dd5a2622f11b14b897f5c8b740345d, type: 3}
+  descripcionHabilidad: Aumenta la defensa de todos los aliados y sus ataques usan
+    parte de ella durante 5s.
+  numerosHab1Estrella: 40
+  numerosHab2Estrella: 60
+  numerosHab3Estrella: 120

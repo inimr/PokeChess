@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6485f2562aa767a4290c8c3b6ecac8bd, type: 3}
+  m_Name: 20 Swinub
+  m_EditorClassIdentifier: 
+  Name: Swinub
+  ID: 20
+  Prefab1Estrella: {fileID: 8226631574974323637, guid: b59e273905874624a9e62971860660fe,
+    type: 3}
+  Prefab2Estrellas: {fileID: 3352035426520826925, guid: 34ad9900cddf9814cb5bfa0f8f3e820c,
+    type: 3}
+  Prefab3Estrellas: {fileID: 8345366358950142581, guid: f11fc36c7043f194b99f77309e4cd03b,
+    type: 3}
+  spriteTienda: {fileID: 21300000, guid: c818f18d26bef54458f8fac06cb0c5fc, type: 3}
+  Coste: 3
+  HP: 1050
+  Ataque: 90
+  Defensa: 45
+  AtaqueEspecial: 100
+  DefensaEspecial: 45
+  VelocidadAtq: 0.9
+  isRanged: 0
+  Rango: 1
+  ManaMax: 70
+  startingMana: 0
+  usaMana: 1
+  Tipo: 1
+  Rol: 2
+  icono1estrella: {fileID: 21300000, guid: 63397654cc07ffb4da32c986e725e254, type: 3}
+  icono2estrellas: {fileID: 21300000, guid: 0259713b4fa334b49a653198f0981536, type: 3}
+  icono3estrellas: {fileID: 21300000, guid: c4cbf91895ce8034f94647693831613a, type: 3}
+  Name2Estrellas: Piloswine
+  Name3Estrellas: Mamoswine
+  iconoTipo: {fileID: 21300000, guid: 54d8d8c3a70906d44a44c8d43471ba06, type: 3}
+  iconoRol: {fileID: 21300000, guid: 4eafca0d23841d349bf7309d354cfe29, type: 3}
+  descripcionHabilidad: Usa Poder Pasado aumentando todas su estadisticas durante
+    4s.
+  numerosHab1Estrella: 20
+  numerosHab2Estrella: 30
+  numerosHab3Estrella: 45

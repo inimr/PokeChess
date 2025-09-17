@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6485f2562aa767a4290c8c3b6ecac8bd, type: 3}
+  m_Name: 13 Axew
+  m_EditorClassIdentifier: 
+  Name: Axew
+  ID: 13
+  Prefab1Estrella: {fileID: 2925290581059494033, guid: 59ecfb315db6b6446a1e489ac63e4b6a,
+    type: 3}
+  Prefab2Estrellas: {fileID: 8449101312530801445, guid: d4354dcdce1437b44bafbeb708510721,
+    type: 3}
+  Prefab3Estrellas: {fileID: 5166991688984169805, guid: 9dd2e0c163deffa4b905bd8ff35a30f6,
+    type: 3}
+  spriteTienda: {fileID: 21300000, guid: 1aef490b23665c74f947a2917bce202b, type: 3}
+  Coste: 2
+  HP: 850
+  Ataque: 90
+  Defensa: 35
+  AtaqueEspecial: 100
+  DefensaEspecial: 35
+  VelocidadAtq: 0.7
+  isRanged: 0
+  Rango: 1
+  ManaMax: 70
+  startingMana: 0
+  usaMana: 1
+  Tipo: 6
+  Rol: 2
+  icono1estrella: {fileID: 21300000, guid: 693f4ff2046e30847bc96822b472d753, type: 3}
+  icono2estrellas: {fileID: 21300000, guid: 9a0c072294111514cbaaefa86088ff14, type: 3}
+  icono3estrellas: {fileID: 21300000, guid: 51c63ec4eb215cd4f91a29909f08d035, type: 3}
+  Name2Estrellas: Fraxure
+  Name3Estrellas: Haxorus
+  iconoTipo: {fileID: 21300000, guid: f8581b3fc6dbf9d468208312a934e218, type: 3}
+  iconoRol: {fileID: 21300000, guid: 4eafca0d23841d349bf7309d354cfe29, type: 3}
+  descripcionHabilidad: Golpea con dureza a su objetivo.
+  numerosHab1Estrella: 500
+  numerosHab2Estrella: 650
+  numerosHab3Estrella: 800

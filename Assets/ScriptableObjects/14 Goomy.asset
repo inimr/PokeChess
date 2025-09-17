@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6485f2562aa767a4290c8c3b6ecac8bd, type: 3}
+  m_Name: 14 Goomy
+  m_EditorClassIdentifier: 
+  Name: Goomy
+  ID: 14
+  Prefab1Estrella: {fileID: 7760020715366647687, guid: 08d2c7874757f104e84aa3d9f6dbeaf4,
+    type: 3}
+  Prefab2Estrellas: {fileID: 8750605870730660445, guid: d4ba3817fcb50bc428bfe54d224f1ea4,
+    type: 3}
+  Prefab3Estrellas: {fileID: 6955112709156153142, guid: e6b548bb55ed94042a5008e36b8c57db,
+    type: 3}
+  spriteTienda: {fileID: 21300000, guid: b0169d3f59088114eaf5f9ea4e9a0128, type: 3}
+  Coste: 3
+  HP: 900
+  Ataque: 75
+  Defensa: 35
+  AtaqueEspecial: 100
+  DefensaEspecial: 60
+  VelocidadAtq: 0.7
+  isRanged: 1
+  Rango: 3
+  ManaMax: 90
+  startingMana: 0
+  usaMana: 1
+  Tipo: 6
+  Rol: 5
+  icono1estrella: {fileID: 21300000, guid: 31ddf561009eff14e8e5a03982d28d7b, type: 3}
+  icono2estrellas: {fileID: 21300000, guid: 11949b97e30618344bdba091e5d05066, type: 3}
+  icono3estrellas: {fileID: 21300000, guid: b3b4960df92a6af468a2889016d4dee6, type: 3}
+  Name2Estrellas: Sliggoo
+  Name3Estrellas: Goodra
+  iconoTipo: {fileID: 21300000, guid: f8581b3fc6dbf9d468208312a934e218, type: 3}
+  iconoRol: {fileID: 21300000, guid: a77132474a5d7e24fbcd152f0fb9d0a8, type: 3}
+  descripcionHabilidad: "Se fortalece ganando defensas y otorgando un escudo a s\xED
+    mismo y a sus aliados de alrededor"
+  numerosHab1Estrella: 20
+  numerosHab2Estrella: 30
+  numerosHab3Estrella: 45

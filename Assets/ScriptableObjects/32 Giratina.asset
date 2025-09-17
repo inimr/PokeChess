@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6485f2562aa767a4290c8c3b6ecac8bd, type: 3}
+  m_Name: 32 Giratina
+  m_EditorClassIdentifier: 
+  Name: Giratina
+  ID: 32
+  Prefab1Estrella: {fileID: 6451138971283176924, guid: 976fd520137a5e34d94980fff0710405,
+    type: 3}
+  Prefab2Estrellas: {fileID: 6451138971283176924, guid: 976fd520137a5e34d94980fff0710405,
+    type: 3}
+  Prefab3Estrellas: {fileID: 6451138971283176924, guid: 976fd520137a5e34d94980fff0710405,
+    type: 3}
+  spriteTienda: {fileID: 21300000, guid: 4b2ad3dda3fcd564ab12616a0ddde9f9, type: 3}
+  Coste: 5
+  HP: 1200
+  Ataque: 90
+  Defensa: 60
+  AtaqueEspecial: 100
+  DefensaEspecial: 60
+  VelocidadAtq: 0.9
+  isRanged: 1
+  Rango: 4
+  ManaMax: 60
+  startingMana: 0
+  usaMana: 1
+  Tipo: 2
+  Rol: 4
+  icono1estrella: {fileID: 21300000, guid: 5e8c02390aa045a45882f92a2af9901c, type: 3}
+  icono2estrellas: {fileID: 21300000, guid: 5e8c02390aa045a45882f92a2af9901c, type: 3}
+  icono3estrellas: {fileID: 21300000, guid: 5e8c02390aa045a45882f92a2af9901c, type: 3}
+  Name2Estrellas: Giratina
+  Name3Estrellas: Giratina
+  iconoTipo: {fileID: 21300000, guid: 9cdebc51d6ec94c4cb9b53515b135318, type: 3}
+  iconoRol: {fileID: 21300000, guid: 60c86f0dd1e590a458115cece32196f8, type: 3}
+  descripcionHabilidad: "Busca al enemigo con mas % de vida y lo maldice, haci\xE9ndole
+    da\xF1o cada 0.5s hasta que es derrotada."
+  numerosHab1Estrella: 150
+  numerosHab2Estrella: 250
+  numerosHab3Estrella: 500

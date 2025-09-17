@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6485f2562aa767a4290c8c3b6ecac8bd, type: 3}
+  m_Name: 06 Duskull
+  m_EditorClassIdentifier: 
+  Name: Duskull
+  ID: 6
+  Prefab1Estrella: {fileID: 1209058676013190141, guid: 81395739e7b22b54e8314711511bf5ca,
+    type: 3}
+  Prefab2Estrellas: {fileID: 6353567776833668269, guid: 577e8ec51bee20341ae9e304a34f84e3,
+    type: 3}
+  Prefab3Estrellas: {fileID: 8540764040832539903, guid: e43f6ead9e6385a46ac3d3b577a13452,
+    type: 3}
+  spriteTienda: {fileID: 21300000, guid: 9621301bec0fb8f43997c09edb6b43c2, type: 3}
+  Coste: 1
+  HP: 800
+  Ataque: 60
+  Defensa: 40
+  AtaqueEspecial: 100
+  DefensaEspecial: 40
+  VelocidadAtq: 0.6
+  isRanged: 0
+  Rango: 0
+  ManaMax: 60
+  startingMana: 0
+  usaMana: 1
+  Tipo: 2
+  Rol: 0
+  icono1estrella: {fileID: 21300000, guid: 16835410064e6ed4d9b19c1acebfad34, type: 3}
+  icono2estrellas: {fileID: 21300000, guid: 00276953aed53324f939a55f8c2b716e, type: 3}
+  icono3estrellas: {fileID: 21300000, guid: 1b137fdd420ad364cb093b2f30f25383, type: 3}
+  Name2Estrellas: Dusclops
+  Name3Estrellas: Dusknoir
+  iconoTipo: {fileID: 21300000, guid: 9cdebc51d6ec94c4cb9b53515b135318, type: 3}
+  iconoRol: {fileID: 21300000, guid: 50dd5a2622f11b14b897f5c8b740345d, type: 3}
+  descripcionHabilidad: "Hace da\xF1o a su objetivo."
+  numerosHab1Estrella: 300
+  numerosHab2Estrella: 400
+  numerosHab3Estrella: 500

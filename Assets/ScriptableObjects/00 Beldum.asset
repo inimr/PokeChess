@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6485f2562aa767a4290c8c3b6ecac8bd, type: 3}
+  m_Name: 00 Beldum
+  m_EditorClassIdentifier: 
+  Name: Beldum
+  ID: 0
+  Prefab1Estrella: {fileID: 5395830528268553813, guid: 33eb43a887ac2594ea032b0aa36736a8,
+    type: 3}
+  Prefab2Estrellas: {fileID: 8850335810302168795, guid: f90583e47cb57b548a02b7d553164daf,
+    type: 3}
+  Prefab3Estrellas: {fileID: 5903992517684425008, guid: d1c6823fe0346474bb57cf1ffc999c73,
+    type: 3}
+  spriteTienda: {fileID: 21300000, guid: fd45b1b46fa40124684abf7dad1ab505, type: 3}
+  Coste: 1
+  HP: 750
+  Ataque: 60
+  Defensa: 40
+  AtaqueEspecial: 100
+  DefensaEspecial: 20
+  VelocidadAtq: 0.7
+  isRanged: 0
+  Rango: 1
+  ManaMax: 70
+  startingMana: 0
+  usaMana: 1
+  Tipo: 0
+  Rol: 4
+  icono1estrella: {fileID: 21300000, guid: c1a699fb3e923a14e837596deb56502c, type: 3}
+  icono2estrellas: {fileID: 21300000, guid: 695baa781c07d4945b631775a1f7fd70, type: 3}
+  icono3estrellas: {fileID: 21300000, guid: 0997d4e2810964d45bff7c047a49ce47, type: 3}
+  Name2Estrellas: Metang
+  Name3Estrellas: Metagross
+  iconoTipo: {fileID: 21300000, guid: 24cfcca384a0e684796c14b483d33a8b, type: 3}
+  iconoRol: {fileID: 21300000, guid: 60c86f0dd1e590a458115cece32196f8, type: 3}
+  descripcionHabilidad: "Ataca a su oponente haciendo da\xF1o adicional y stuneandolo
+    1.5s"
+  numerosHab1Estrella: 100
+  numerosHab2Estrella: 150
+  numerosHab3Estrella: 200

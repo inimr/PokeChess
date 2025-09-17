@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6485f2562aa767a4290c8c3b6ecac8bd, type: 3}
+  m_Name: 01 Dratini
+  m_EditorClassIdentifier: 
+  Name: Dratini
+  ID: 1
+  Prefab1Estrella: {fileID: 38524604932655196, guid: c54b214445542234db4f736583a65302,
+    type: 3}
+  Prefab2Estrellas: {fileID: 2642804136095149014, guid: 5a92021468657a541a5c6a6290a10be4,
+    type: 3}
+  Prefab3Estrellas: {fileID: 4421909873661282870, guid: cc9bec391a5aa274198e34cf495e3bc3,
+    type: 3}
+  spriteTienda: {fileID: 21300000, guid: 97be1e8a10486314587dbd70eb9d6a0e, type: 3}
+  Coste: 1
+  HP: 800
+  Ataque: 60
+  Defensa: 30
+  AtaqueEspecial: 100
+  DefensaEspecial: 30
+  VelocidadAtq: 0.8
+  isRanged: 0
+  Rango: 1
+  ManaMax: 60
+  startingMana: 0
+  usaMana: 1
+  Tipo: 6
+  Rol: 1
+  icono1estrella: {fileID: 21300000, guid: fac1ec5e9a6e3774fba4b30388b20fe0, type: 3}
+  icono2estrellas: {fileID: 21300000, guid: ebfbeb746dd2ca04c8322e3aacbc251b, type: 3}
+  icono3estrellas: {fileID: 21300000, guid: 66b631e49584b564bbe93bbe95382fea, type: 3}
+  Name2Estrellas: Dragonair
+  Name3Estrellas: Dragonite
+  iconoTipo: {fileID: 21300000, guid: f8581b3fc6dbf9d468208312a934e218, type: 3}
+  iconoRol: {fileID: 21300000, guid: 93ae0b9479352b14d9119324dbeaad7e, type: 3}
+  descripcionHabilidad: "Usa Danza Drag\xF3n aumentando el ataque y la velocidad
+    de ataque durante 5s"
+  numerosHab1Estrella: 20
+  numerosHab2Estrella: 30
+  numerosHab3Estrella: 40

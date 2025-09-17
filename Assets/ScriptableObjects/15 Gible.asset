@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6485f2562aa767a4290c8c3b6ecac8bd, type: 3}
+  m_Name: 15 Gible
+  m_EditorClassIdentifier: 
+  Name: Gible
+  ID: 15
+  Prefab1Estrella: {fileID: 195909296133381422, guid: bf8173353db412c42b9b02c84449436c,
+    type: 3}
+  Prefab2Estrellas: {fileID: 7503289721160588246, guid: 8124658e854a0a44589a1e26ad78e592,
+    type: 3}
+  Prefab3Estrellas: {fileID: 6540502124064395588, guid: c31d220d9c09106499102408603c52a7,
+    type: 3}
+  spriteTienda: {fileID: 21300000, guid: 9823c971ffef20347b4906adef2f121c, type: 3}
+  Coste: 3
+  HP: 1000
+  Ataque: 90
+  Defensa: 40
+  AtaqueEspecial: 100
+  DefensaEspecial: 40
+  VelocidadAtq: 0.8
+  isRanged: 0
+  Rango: 1
+  ManaMax: 80
+  startingMana: 0
+  usaMana: 0
+  Tipo: 6
+  Rol: 4
+  icono1estrella: {fileID: 21300000, guid: dca001458430e2f4b8b73e24bbd3d174, type: 3}
+  icono2estrellas: {fileID: 21300000, guid: 0ca5d0fca72335140a129cdd36241be7, type: 3}
+  icono3estrellas: {fileID: 21300000, guid: 30acb6b9ebbbaff4ea2217a393d46a96, type: 3}
+  Name2Estrellas: Gabite
+  Name3Estrellas: Garchomp
+  iconoTipo: {fileID: 21300000, guid: f8581b3fc6dbf9d468208312a934e218, type: 3}
+  iconoRol: {fileID: 21300000, guid: 60c86f0dd1e590a458115cece32196f8, type: 3}
+  descripcionHabilidad: "Rompe el suelo da\xF1ando a los enemigos de su alrededor
+    y aturdi\xE9ndolos durante 2s."
+  numerosHab1Estrella: 400
+  numerosHab2Estrella: 500
+  numerosHab3Estrella: 650
